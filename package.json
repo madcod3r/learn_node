@@ -22,5 +22,8 @@
   "homepage": "https://github.com/madcod3r/learn_node#readme",
   "dependencies": {
     "metasync": "^0.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0"
   }
 }
