@@ -1,0 +1,23 @@
+{
+  "name": "learn_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madcod3r/learn_node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learn"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madcod3r/learn_node/issues"
+  },
+  "homepage": "https://github.com/madcod3r/learn_node#readme"
+}
