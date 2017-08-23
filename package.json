@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/madcod3r/learn_node/issues"
   },
-  "homepage": "https://github.com/madcod3r/learn_node#readme"
+  "homepage": "https://github.com/madcod3r/learn_node#readme",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  }
 }
